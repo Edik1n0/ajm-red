@@ -24,12 +24,12 @@
         <div class="footer__loc--contacts">
             <div class="locals">
                 <div class="whatsapp">
-                    <a href="https://api.whatsapp.com/send?phone=573108455348&text=Hola%20me%20gustaría%20tener%20mayor%20información%20sobre%20los%20servicios%20legales%20de%20Asesorías%20Jurídicas%20Medellín" target="_blank" rel="nofollow">
+                    <a href="https://wa.link/qpm1eq" target="_blank" rel="nofollow">
                         <img src="img/wp.png" alt="wpbutton" class="wpbutton">
                     </a>
                 </div>
                 <div class="email">
-                    <a href="mailto:juridicasmed@gmail.com" target="_blank" rel="nofollow">juridicasmedellin@gmail.com</a>
+                    <a href="mailto:juridicasmedellin@gmail.com" target="_blank" rel="nofollow">juridicasmedellin@gmail.com</a>
                 </div>
                 <div class="mapa">
                     <a href="https://g.page/asesorias-juridicas-medellin?share" target="_blank" rel="nofollow">Calle 49# 50-21 Oficina 2005, Medellín, Antioquia</a>
