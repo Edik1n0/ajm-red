@@ -82,9 +82,8 @@
                         <!-- end colored -->
                     </div>
                 </div>
-                <div class="isabel">
+                <!-- <div class="isabel">
                     <div class="col-sm-6">
-                        <!-- colored -->
                         <div class="ih-item square colored effect6 from_top_and_bottom"><a href="#">
                                 <div class="img">
                                     <img itemprop="image" src="img/abogados-isabel.jpg" alt="María Isabel Pareja" title="María Isabel Pareja">
@@ -98,9 +97,8 @@
                                 </div>
                             </a>
                         </div>
-                        <!-- end colored -->
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
 
